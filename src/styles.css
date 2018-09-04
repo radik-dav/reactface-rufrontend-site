@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+header ul {
+  list-style: none;
+}
+nav ul {
+  display: flex;
+  flex-direction: row;
+}
+li a {
+  padding: 10px;
+}
