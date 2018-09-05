@@ -1,7 +1,7 @@
 import React from "react";
 
 const About = () => (
-  <div>
+  <div className="content-page">
     <h1>О Нас</h1>
   </div>
 );

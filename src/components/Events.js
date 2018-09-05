@@ -1,7 +1,7 @@
 import React from "react";
 
 const Events = () => (
-  <div>
+  <div className="content-page">
     <h1>Мероприятия</h1>
   </div>
 );
